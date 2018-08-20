@@ -26,7 +26,7 @@ Note: the second command is only needed in the linux environment.
 
 Then clone this repository:
 ```
-git clone git@github.com:huanzhang12/Adversarial_Survey.git
+git clone https://github.com/IBM/ImageNet-Robustness.git
 cd Adversarial_Survey
 ```
 
